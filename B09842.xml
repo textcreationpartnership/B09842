@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for passing an act for selling the estate of Sir John Maynard Kt. deceased late one of the Lords Commissioners for the custody of the Great Seal of England.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09842</idno><idno type="EEBO-CITATION">62369618</idno>
+  <idno type="VID">188102</idno>
+  <idno type="EEBO-PROQUEST">2240858929</idno>
+  
+            <idno type="STC">Wing R499</idno>
+            <idno type="STC">ESTC R182416</idno>
+            <idno type="OCLC">62369618</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188102)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for passing an act for selling the estate of Sir John Maynard Kt. deceased late one of the Lords Commissioners for the custody of the Great Seal of England.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside cropped and torn with slight loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Maynard, John, --  Sir, 1602-1690.</term>
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188102:1"/>
+            <head>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>EASONS for passing an ACT for selling the Estate of Sir <hi>John Maynard</hi> Kt. deceased, late One <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Lords Commissioners for the Custody of the Great Seal of <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">U</seg>PON the Death of Sir <hi>John Maynard,</hi> Four Wills were found in his House, and are now lodged in the Preroga<g ref="char:EOLhyphen"/>tive Court, the First bearing Date the Twenty eighth of <hi>September</hi> 1676. The Second bearing Date the Ninth of <hi>September</hi> 1686. and indorsed or writ upon by the said Sir <hi>John Maynard</hi> as his Will, the Twenty seventh of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1687. The Third bearing Date the Sixth of <hi>February</hi> 1689. And the Fourth bearing Date the Twenty first day of <hi>March</hi> 1689. with a Codicil annext bearing Date the Tenth of <hi>July</hi> 1690.</p>
+            <p>The last Will, with the Codicil, has been proved by the Countess of <hi>Suss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x,</hi> Executrix thereof, in the Preroga<g ref="char:EOLhyphen"/>tive Court, and is admitted to be a good Will as to the Personal Estate, but as to the validity thereof for the dis<g ref="char:EOLhyphen"/>posal of the Real Estate, the Earl of <hi>Stamford,</hi> and Sir <hi>Henry Hobart,</hi> and their Wives, who are Grand-daughters and Coheirs at Law to Sir <hi>John Maynard,</hi> have opposed it; and in an Ejectment in the Court of <hi>King's-Bench,</hi> upon a Special Verdict there depending, the Question is, Whether this last Will be a good Original Will, according to the late Statute made in 29 <hi>Car.</hi> 2. for preventing Frauds and Perjuries, because the said Sir <hi>John</hi> did not Sign <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ill in the presence of the Three Witnesses?</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this Point should be determined, That it shall be a good Original Will, then there will after that arise another Point, Whether it be a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Revoking Will, upon the different penning of the several Clauses of the said Statute?</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Heirs at Law oppose all the Wills.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Two Wills dated the Ninth of <hi>September</hi> 1686. and the Sixth of <hi>February</hi> 1689. were not given in Evidence at the said Tryal; and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e said Will of the Ninth of <hi>September</hi> 1686. there be several Parts of the Estate of the said Sir <hi>John Maynard,</hi> mentioned to be devised to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ur Daughters, and their Children, <hi>viz. Elizabeth,</hi> married to Sir <hi>Duncombe Colche<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> Knight, by whom She left Issue <hi>Maynard Colchester</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er eldest Son; <hi>Honora,</hi> married to <hi>Edward Nosworthy</hi> Esq; by whom she left Issue <hi>Jane,</hi> now the Wife of Sir <hi>William Rawlinson</hi> Knight, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt at Law; <hi>Joan,</hi> married to <hi>Thomas Leigh</hi> of <hi>Adlington</hi> Esq; deceased, who hath Issue <hi>John Leigh</hi> Esq; her eldest Son; and <hi>Martha,</hi> mar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o <hi>Edward Gresham</hi> Esq; and also 400 <hi>l. per annum</hi> is thereby mentioned to be given to <hi>Elizabeth Maynard</hi> Widow, the Relict of <hi>Joseph <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ard</hi> Esq; for her Life; and 50 <hi>l. per annum</hi> to the said <hi>Martha Gresham</hi> for her Life.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e surviving Daughters, and the Children of the deceased Daughters, set up the Will of 86. and pretend that it is not Revoked, unless <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ill of 89. be a Revocation of it; so that if Judgment should be given against the Heirs at Law, upon the said Special Verdict, That the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Twenty first of <hi>March</hi> 1689. is a good Original Will; yet it will not thereby be established for setting aside the bringing of a Writ <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or in the House of Lords upon that Judgment, the Will in 1686. will yet stand in the way, and there must be a new Tryal, and a new <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>al Verdict upon another Point, <hi>viz.</hi> Whether the Will in 1689. be a good Revocation of the Will in 1686. because Sir <hi>John Maynard</hi> did <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gn the Will in 89. in the presence of the Witnesses? And this seems to be a more difficult Question, than that now depending upon the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pecial Verdict.</p>
+            <p>Parties concerned either in the Will of 86. or in the Wills of 89. are come to an Accommodation, for the peace of the Family, and are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>red that the Will of the Tw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nty first of <hi>March</hi> 89. shall st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the onely Will in being (the other Will of the Sixth of <hi>Febru</hi> 689. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> much to the same effect, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> executed also in the same manner.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at the said Will of the Twenty first of <hi>March</hi> 89. should stand, is most agreeable certainly to the mind of Sir <hi>John;</hi> and if upon the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t of a Suit either in <hi>Westminster-Hall,</hi> or in the House of Lords, upon a Writ of Error, the Wills in 89. upon the Construction of the said <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>te, should be adjudged to be no Revocation of the Will in 86. then it will follow. That the last Wills in 89. must be good for the Personal <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, and the Will in 86. must be good for the Real Estate; which will be a great Inconvenience, because the disposal of the Personal Estate <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Will of 89. has a reference to and a dependance upon the Real Estate; and if that last Will of 89. shall not be good as well for the Real <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tate as for the Personal, the Intention of Sir <hi>John</hi> will be subverted.</p>
+            <p>By the misfortune of Sir <hi>John</hi>'s not Signing the Wills in 89. in the presence of the Witnesses, the Heirs at Law are let in to dispute the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>alidity of both, and if either the Construction of it in <hi>Westminster-Hall,</hi> or the House of Lords be for them, then if the Will in 1686. be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>evoked otherways, or be otherways defective, the Heirs at Law will have a Fee-simple, and be enabled with their Husbands, to dispose of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eal Estate at Will and Pleasure. And if the last Will in 89. should be adjudged a good Original Will, yet those claiming by the Will of 86. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ill then controvert the Wills i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 89. and try it, as aforesaid, Whether the Wills in 89. be good revoking Wills?</p>
+            <p>To take away these Disputes, his Act is agreed unto by all Parties concerned, and the Act is penned so as to make as little alterati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ill in 89. as m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y▪</p>
+            <p>The <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dvantages given to the Heirs at Law for surrendring up their Petences, is, to have the settlement of the real Estate made over to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hem in the same manner during the Life of the Lady <hi>Suffolk,</hi> as it is appointed to be made after her decease by the late Will of 89. with the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ame Limitations of Estates, and with no variation, excepting an Estate for 99 years to the Earl of <hi>Stamford,</hi> if he so long live, who was not married in Sir <hi>John</hi>'s life-time; and had he then been married, would in all probability have had an Estate limited to him for his lie, as well as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ir <hi>Henry Hobart.</hi> And besides, In the last Will in 89 when the residue of the Personal Estate is appointed to be laid out in a Purchase, there <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s a limitation of that new Purchase to the Husband, that <hi>Mary</hi> (now Countess of <hi>Stamford</hi>) should marry for his life, in like manner, with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ir <hi>Henry Hobart;</hi> whereby it appears that Sir <hi>John</hi>'s meaning was, That the Husband of the said <hi>Mary</hi> should be in equal condition with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ir <hi>Henry Hobart.</hi>
+            </p>
+            <p>As to those claiming by the Will of 86. which are the surviving Daughters, and the Dscendents from the 12 Deceased Daughters; there is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y the Act 4500 <hi>l.</hi> to be raised, to be distributed amonst them; and <hi>Elizabeth Maynard,</hi> Widow of <hi>Joseph Maynard,</hi> Son of the said Sir <hi>John,</hi> is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o have 350 <hi>l. per ann.</hi> Rent charge, instead of her 300 <hi>l. per ann.</hi> limited to her by the Will of 89. and instead of the 400 <hi>l. per ann.</hi> limited <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o her by the Will of 86.</p>
+            <p>These are the Computations made to those that claim by the Will of 86.</p>
+            <p>The Real Estate of Sir <hi>John Maynard</hi> being very considerable, and being subject to these Disputes, it is conceived that these Satisfactions gi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en out of it to these several Pretenders, are such as the Countess of <hi>Suffolk</hi> (the Executrix and Trustee of Sir <hi>John Maynard</hi>) and the Heirs at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aw are by Council advised prudently to be assented unto, not so much in respect of the ease of the said Countess (who has been ever since ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ssed with Suits) as in respect of the advantage thereby accruing to the Real Estate of Sir <hi>John,</hi> which by these Disputes has suffered much, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ery day like to suffer more.</p>
+            <p>What is given to take off these Pretences, is conceived to be not so much as the setling them in Law and Equity will cost, and what the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eal Estate will suffer in the mean time; and when the uncertainty of the Event upon Trials at Law is considered, it must be thought that the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sterity of Sir <hi>John Maynard,</hi> to whom he designed his Real Estate by the said last Will of 89. will have no reason to complain.</p>
+            <p>These Satisfactions being given to so near Relations, and to extinguish all Suits between them, and being so inconsiderable in respect of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eat Real Estate, from which they are taken; and being in the consequence so advantageous to the Real Estate it self. This Act therefore <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ill <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut establish such an Agreement that is highly reasonable and prudent; and that can be no other way done, but by the help of the Legisla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Power, by reason of the different Interests by the said several Wills.</p>
+            <p>The Countess of <hi>Suffolk</hi> is the only Person that sets up, and has defended the last Will in 89. and should she die before these Disputes (<hi>viz.</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hether it be a good Original Will, and whether it be a good Revoking Will) be determined; the Children of the Co-heirs, entitled to the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>emainder by the said last Will of 89. will then suffer much more than they can by this Agreement. And besides, The poor Relations, who <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ve Annuities by the said last Will, are in all events secured by this Act, though the Countess of <hi>Suffolk</hi> should die.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
